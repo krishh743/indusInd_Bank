@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/indusInd_Bank/static/css/main.e6c13ad2.css",
+    "main.js": "/indusInd_Bank/static/js/main.75286825.js",
+    "index.html": "/indusInd_Bank/index.html",
+    "main.e6c13ad2.css.map": "/indusInd_Bank/static/css/main.e6c13ad2.css.map",
+    "main.75286825.js.map": "/indusInd_Bank/static/js/main.75286825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75286825.js"
+  ]
+}
